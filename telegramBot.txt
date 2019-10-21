@@ -1,0 +1,24 @@
+name :TestJemaBot
+Token: 876764820:AAG6CgmuzPhef3fv8uemTjW2wLNU1NE7oEU
+
+
+{'ok': True, 'result': 
+			[{'update_id': 108484171, 
+				'message': {'message_id': 1, 
+						'from':{'id': 374988201, 'is_bot': False, 'first_name': 'Jema', 'username': 'jema_alice'}, 
+						'chat': {'id': 374988201, 'first_name': 'Jema', 'username': 'jema_alice', 'type': 'private'}, 
+						'date': 1571420136, 
+						'text': '/start',
+						 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]
+					}
+			}, 
+			{'update_id': 108484172, 
+			'message': {'message_id': 2, 
+					'from': {'id': 374988201, 'is_bot': False, 'first_name': 'Jema', 'username': 'jema_alice', 'language_code': 'ru'}, 
+					'chat': {'id': 374988201, 'first_name': 'Jema', 'username': 'jema_alice', 'type': 'private'}, 
+					'date': 1571420144, 
+					'text': 'Hello)'
+				}
+			}
+			]
+}
